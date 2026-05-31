@@ -1,5 +1,7 @@
 LivePlayer 直播播放器
 基于 Qt6 + mpv 开发的轻量级直播播放器，支持本地导入、在线更新直播源，简洁稳定。
+<img src="liveplayer1.png" width="750">
+<img src="liveplayer2.png" width="750">
 ✨ 功能特性
 ✅ 内嵌视频播放
 视频直接嵌入窗口，无多余控件，播放流畅稳定
@@ -13,6 +15,7 @@ LivePlayer 直播播放器
 支持在线 M3U 直播源自动解析加载
 ✅ 最近观看记录
 自动保存最近 20 条播放记录，快速回看
+<img src="liveplayer.png" width="750">
 📌 支持的源格式
 本地 TXT 格式（每行一条）
 plaintext
